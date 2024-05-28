@@ -81,7 +81,7 @@ To use the Sentiment Analysis system, follow these steps:
 ### Project Images
 
 ![Sentiment Analysis Interface](UI.png)
-![Sentiment Analysis Interface](UI1.png)
+![Sentiment Analysis Interface](UI2.png)
 ![Sentiment Analysis Interface](UI0.png)
 
 *Description: The main interface of the Sentiment Analysis application where users can upload data and select models for sentiment prediction.*
