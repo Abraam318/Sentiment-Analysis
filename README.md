@@ -67,11 +67,7 @@ To use the Sentiment Analysis system, follow these steps:
     ```bash
     cd sentiment-analysis
     ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the Streamlit application:
+3. Run the Streamlit application:
     ```bash
     streamlit run app.py
     ```
