@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-![Sentiment Analysis](Sentiment_Analysis.png)
+![Sentiment Analysis](bg.jpg)
 
 ## Table of Contents
 
