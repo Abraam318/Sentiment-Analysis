@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-![Sentiment Analysis](bg.jpg)
+![Sentiment Analysis](bg.png)
 
 ## Table of Contents
 
@@ -61,7 +61,7 @@ To use the Sentiment Analysis system, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis.git
+    git clone https://github.com/Abraam318/sentiment-analysis.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -80,15 +80,15 @@ To use the Sentiment Analysis system, follow these steps:
 
 ### Project Images
 
-![Sentiment Analysis Interface](path_to_interface_image.png)
-*Description: The main interface of the Sentiment Analysis application where users can upload data and select models for sentiment prediction.*
+![Sentiment Analysis Interface](UI1.png)
+![Sentiment Analysis Interface](UI.png)
+![Sentiment Analysis Interface](UI0.png)
 
-![Model Evaluation](path_to_evaluation_image.png)
-*Description: The model evaluation section showcasing the performance metrics of different machine learning models.*
+*Description: The main interface of the Sentiment Analysis application where users can upload data and select models for sentiment prediction.*
 
 ### Dataset
 
-Download the dataset used for this project:
+Download the dataset used for this project: ![Dataset](sentimentdataset.csv)
 [dataset.csv](path_to_dataset.csv)
 *Description: The CSV file containing the text data and sentiment labels used for training and evaluating the models.*
 
